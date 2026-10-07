@@ -7,4 +7,4 @@ test_snapshots/
 node_modules/
 dist/
 *.log
-.env
+config.bat
